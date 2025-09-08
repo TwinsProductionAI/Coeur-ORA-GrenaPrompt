@@ -34,5 +34,21 @@ Les contributions sont les bienvenues !
 - Ouvrez une **issue** pour signaler un bug ou proposer une idée  
 - Faites une **pull request** pour améliorer le code  
 
+---
+
+## 🧩 MAJ_0 — Brief client
+
+Le dossier `maj_0_demo/` fournit :
+- `brief_template.md` : le formulaire client (à remplir)
+- `brief_demo.json` : un exemple **déjà rempli**
+- `run_maj0.py` : injecte le brief dans le **Cœur d’ORA** et génère un **plan d’activation ORA** (LOCK/REM/AUTOPROMPT/AUDIT)
+
+### Lancer la démo
+```bash
+pip install -e .
+python maj_0_demo/run_maj0.py
+# ou avec votre propre brief :
+python maj_0_demo/run_maj0.py --brief mon_brief.json --iterations 2
+
 Licence : **Apache 2.0**
 
