@@ -23,6 +23,7 @@ Il permet de créer des IA **modulaires, adaptatives et personnalisées** autour
 ```bash
 
 pip install -e .
+
 ---
 
 ## 🤝 Contribuer
