@@ -1,0 +1,15 @@
+[project]
+name = "ora-core"
+version = "0.1.0"
+description = "Coeur ORA — GrenaPrompt framework (mini PoC)"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [{name="TwinsProduction", email="oragrenatprompt@gmail.com"}]
+dependencies = []
+
+[project.scripts]
+ora = "ora_core:main"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
