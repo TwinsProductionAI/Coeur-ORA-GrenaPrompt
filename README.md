@@ -22,6 +22,7 @@ Il permet de créer des IA **modulaires, adaptatives et personnalisées** autour
 
 ```bash
 
+pip install -e .
 ---
 
 ## 🤝 Contribuer
@@ -31,5 +32,3 @@ Les contributions sont les bienvenues !
 - Faites une **pull request** pour améliorer le code  
 
 Licence : **Apache 2.0**
-
-pip install -e .
