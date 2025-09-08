@@ -1,10 +1,10 @@
 [project]
 name = "ora-core"
-version = "0.1.0"
+version = "1.2.0"
 description = "Coeur ORA — GrenaPrompt framework (mini PoC)"
 readme = "README.md"
 requires-python = ">=3.10"
-license = {text = "MIT"}
+license = {text = "APACHE 2.0"}
 authors = [{name="TwinsProduction", email="oragrenatprompt@gmail.com"}]
 dependencies = []
 
