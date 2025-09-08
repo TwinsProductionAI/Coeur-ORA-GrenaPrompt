@@ -21,14 +21,10 @@ Il permet de créer des IA **modulaires, adaptatives et personnalisées** autour
 ## 📦 Installation
 
 ```bash
-
 pip install -e .
 
-
-
-
-
-
+ora "Explique en une phrase ce qu’est le Coeur ORA."
+"Un framework open-source modulaire qui combine LOCK, REM, AUTOPROMPT et AUDIT pour créer des IA adaptatives."
 
 ---
 
@@ -39,3 +35,4 @@ Les contributions sont les bienvenues !
 - Faites une **pull request** pour améliorer le code  
 
 Licence : **Apache 2.0**
+
