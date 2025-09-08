@@ -61,6 +61,3 @@ Génération automatique de rapports après chaque exécution
 
 Ce projet est publié sous licence Apache 2.0.
 Framework principal disponible dans le README du repo.
-.
-Framework principal disponible dans le README du repo
-.
