@@ -1,22 +1,14 @@
-# 🧠 Cœur d’ORA & Framework GrenaPrompt
+# Coeur ORA — GrenaPrompt (PoC mini)
 
-## 📌 Présentation
-Le **Cœur d’ORA** est une surcouche IA modulaire pensée pour donner à une intelligence artificielle :  
-1. Une identité stable (voix, ton, valeurs)  
-2. Une fusion stylistique (FR/ENG, tonalités adaptatives)  
-3. Une mémoire adaptative (REM/Sync, boucle 24h)  
-4. Des modes d’exécution spécialisés (architecture, TCG, livrables pro, narration, etc.)
+**Statut :** Release 0.1.0-mini — démonstrateur rapide.
 
-Le **Framework GrenaPrompt (FGP)** associe :  
-- un langage hybride **JSON + texte naturel** (structure + humanité)  
-- des scripts **Python** pour la sécurité, la mémoire et la gouvernance (LOCK, AUTOPROMPT, REM, audit logs)
+Ce paquet montre le cycle minimal **LOCK → REM → AUTOPROMPT → AUDIT** dans un **seul fichier**.  
+L'objectif est de prouver qu'il y a du **code exécutable** ici, dès maintenant.
 
-## 📂 Contenu
-- `README.md` — Présentation générale  
-- `LICENSE` — CC BY-NC-SA 4.0 + clause commerciale **Twins Productions**  
-- `/docs/` — Chronologie 2025, Architecture & Commandes, Fiches techniques FGP/GrenaPrompt
+## Installation locale
+```bash
+pip install -e .
+ora "Transforme ce brief en prompt structuré GrenaPrompt."
 
-## 📜 Licence
-- **CC BY-NC-SA 4.0** : partage/adaptations autorisés, attribution requise, pas d’usage commercial, partage à l’identique  
-- **Commercial** : toute exploitation à but lucratif requiert un accord avec **Twins Productions**  
-© 2025 — **Twins Productions**. Tous droits réservés.
+---
+
