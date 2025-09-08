@@ -1,24 +1,19 @@
-# Licence — Cœur d’ORA & Framework GrenaPrompt
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
 
-## Partie 1 — Licence ouverte (non commerciale)
-Ce projet est placé sous **Creative Commons Attribution – NonCommercial – ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.
+   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
-### Vous êtes autorisé à :
-- Partager : copier, distribuer et communiquer le matériel par tous moyens et sous tous formats  
-- Adapter : remixer, transformer et créer à partir du matériel
+   Copyright 2025 TwinsProduction
 
-### Selon les conditions :
-- **Attribution** : créditer **Twins Productions**, lier la licence, indiquer les modifications  
-- **NonCommercial** : aucun usage commercial autorisé sans accord écrit  
-- **ShareAlike** : les dérivés doivent être sous la même licence
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
 
-## Partie 2 — Clause commerciale
-Toute utilisation **commerciale** (produit, service, logiciel, formation payante, etc.) doit faire l’objet d’un **accord de licence** avec :  
-**Twins Productions — Xavier Flériag**  
-[Coordonnées à insérer]  
-Sans accord écrit, **aucune exploitation commerciale n’est autorisée**.
+       http://www.apache.org/licenses/LICENSE-2.0
 
-## Partie 3 — Avertissement
-Projet fourni « tel quel », sans garantie. **Twins Productions** décline toute responsabilité.
-
-© 2025 — **Twins Productions**. Tous droits réservés.
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
