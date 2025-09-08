@@ -24,6 +24,12 @@ Il permet de créer des IA **modulaires, adaptatives et personnalisées** autour
 
 pip install -e .
 
+
+
+
+
+
+
 ---
 
 ## 🤝 Contribuer
