@@ -1,0 +1,32 @@
+[
+  {
+    "id": "C-001",
+    "nom": "Alice Martin",
+    "age": 34,
+    "segment": "Premium",
+    "achats_12m": 12,
+    "panier_moyen": 145.9,
+    "risque_attrition": 0.12,
+    "notes": "Appelle souvent le support, aime les réponses rapides."
+  },
+  {
+    "id": "C-002",
+    "nom": "Benoît Dupont",
+    "age": 41,
+    "segment": "Standard",
+    "achats_12m": 4,
+    "panier_moyen": 58.3,
+    "risque_attrition": 0.38,
+    "notes": "A hésité à résilier, sensible aux promos."
+  },
+  {
+    "id": "C-003",
+    "nom": "Camille Leroy",
+    "age": 27,
+    "segment": "Nouveau",
+    "achats_12m": 1,
+    "panier_moyen": 39.0,
+    "risque_attrition": 0.22,
+    "notes": "Découverte par recommandation. Intéressée par les bundles."
+  }
+]
