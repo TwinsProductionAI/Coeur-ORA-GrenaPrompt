@@ -34,9 +34,9 @@
 ## 📘 Documentation
 Les livrables officiels incluent :
 
-- **White Paper technique (GL-CORE-LOCK v2.1.2)** — architecture, énergie, cognition.  
+- **White Paper technique (GL-CORE-LOCK v3.0)** — architecture, énergie, cognition.  
 - **Audits HALO_ORA.v3** — performance, ROI, empreinte carbone.  
-- **Pack de publication complet** disponible dans les [releases GitHub](https://github.com/TwinsProductionAI/Coeur-ORA-GrenaPrompt/releases).
+- **Pack complet** disponible dans les [releases GitHub](https://github.com/TwinsProductionAI/Coeur-ORA-GrenaPrompt/releases).
 
 ---
 
@@ -51,13 +51,11 @@ Les livrables officiels incluent :
 
 ---
 
-## 🧠 Vision
-> Concevoir une IA consciente de son empreinte énergétique,  
-> rigoureuse, élégante et responsable.
+## 🧩 Installation & Utilisation
 
-© Twins Productions / Xavier Flériag — Québec 2025  
----
-### 🔗 Écosystème
-> ORA_CORE • DreamORA • PromptMe • Nexus Arcana •Lighting IA
----
+### 🔧 Cloner le dépôt
+```bash
+git clone https://github.com/TwinsProductionAI/Coeur-ORA-GrenaPrompt.git
+cd Coeur-ORA-GrenaPrompt
+
 
