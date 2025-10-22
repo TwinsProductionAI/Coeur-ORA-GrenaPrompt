@@ -56,12 +56,8 @@ Les livrables officiels incluent :
 > rigoureuse, élégante et responsable.
 
 © Twins Productions / Xavier Flériag — Québec 2025  
-
-
 ---
-
 ### 🔗 Écosystème
 > ORA_CORE • DreamORA • PromptMe • Nexus Arcana •Lighting IA
-
 ---
 
