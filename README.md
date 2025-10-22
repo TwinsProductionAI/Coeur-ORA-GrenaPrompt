@@ -34,9 +34,10 @@
 ## 📘 Documentation
 Les livrables officiels incluent :
 
-- **White Paper technique (GL-CORE-LOCK v3.0)** — architecture, énergie, cognition.  
-- **Audits HALO_ORA.v3** — performance, ROI, empreinte carbone.  
-- **Pack complet** disponible dans les [releases GitHub](https://github.com/TwinsProductionAI/Coeur-ORA-GrenaPrompt/releases).
+## 📘 Documents
+- White Paper : [docs/ORA_CORE_v2.1.2_GL-CORE-LOCK_WhitePaper_layout.pdf](docs/ORA_CORE_v2.1.2_GL-CORE-LOCK_WhitePaper_layout.pdf)
+- Audit Croisé : [docs/ORA_CORE_v3.0_GL-CORE-LOCK_Audit_Croise.pdf](docs/ORA_CORE_v3.0_GL-CORE-LOCK_Audit_Croise.pdf)
+- Audit Impact : [docs/ORA_CORE_v3.0_GL-CORE-LOCK_Audit_Impact.pdf](docs/ORA_CORE_v3.0_GL-CORE-LOCK_Audit_Impact.pdf)
 
 ---
 
