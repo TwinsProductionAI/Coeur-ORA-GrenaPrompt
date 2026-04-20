@@ -1,62 +1,50 @@
-# 🧠 ORA_CORE – GL-CORE-LOCK v3.0  
-### *Cœur Cognitif d’Intelligence Artificielle Évolutive*
+# ora-core-legacy-whitepaper
 
-[![Release](https://img.shields.io/github/v/release/TwinsProductionAI/Coeur-ORA-GrenaPrompt?color=00f6ff&label=Version)](https://github.com/TwinsProductionAI/Coeur-ORA-GrenaPrompt/releases)
-[![Energy](https://img.shields.io/badge/HALO_ORA.v3-0.01835_Wh/token-ffd87f)](#)
-[![License](https://img.shields.io/badge/License-TwinsProd%20©2025-blue)](#)
-[![Status](https://img.shields.io/badge/Status-Stable%20++-00f6ff)](#)
+Historical archive for earlier ORA Core GL-CORE-LOCK documents.
 
----
+This repository is kept for continuity and traceability. It is not the current starting point for the public ORA Core architecture.
 
-## 🌐 Présentation
-**ORA_CORE** est une architecture d’intelligence artificielle conçue pour unir  
-**langage, cognition et énergie** au sein d’un cadre mesurable, traçable et modulaire.  
+For the current entry point, start with [ora-core-os](https://github.com/TwinsProductionAI/Coeur_ORA_GrenaPrompt_repo).
 
-> *Vérité > Confort > Narration* — principe directeur du système.
+Recommended public slug: `ora-core-legacy-whitepaper`.
 
----
+## Repository Role
 
-## ⚙️ Architecture Modulaire
+| Public order | Repository role |
+| ---: | --- |
+| 7 | Historical archive for earlier ORA Core white papers and audits. |
 
-| Module | Fonction principale |
-|---------|---------------------|
-| **HALO_ORA.v3** | Régulation énergétique (0.01835 Wh/token). |
-| **PRIMORDIA** | Vérification éthique et cohérence logique. |
-| **RIME / REM++** | Mémoire rémanente et intégrative. |
-| **EMO+** | Détection et modulation émotionnelle. |
-| **VG+ (Van Gogh Pipeline)** | Construction hiérarchique multi-couches. |
-| **NUM:LINK** | Cartographie numérologique énergétique. |
-| **VOCAL:SI** | Continuité vocale intelligente. |
-| **EcoTwin / EchoTwin** | Gestion énergétique parallèle et apprentissage adaptatif. |
+## Archived Scope
 
----
+This repository contains historical ORA Core material such as:
 
-## 📘 Documentation
-Les livrables officiels incluent :
+- earlier GL-CORE-LOCK white paper material
+- audit PDFs
+- prior presentation of ORA Core modules
+- legacy documentation useful for lineage and context
 
-## 📘 Documents
-- White Paper : [docs/ORA_CORE_v2.1.2_GL-CORE-LOCK_WhitePaper_layout.pdf](docs/ORA_CORE_v2.1.2_GL-CORE-LOCK_WhitePaper_layout.pdf)
-- Audit Croisé : [docs/ORA_CORE_v3.0_GL-CORE-LOCK_Audit_Croise.pdf](docs/ORA_CORE_v3.0_GL-CORE-LOCK_Audit_Croise.pdf)
-- Audit Impact : [docs/ORA_CORE_v3.0_GL-CORE-LOCK_Audit_Impact.pdf](docs/ORA_CORE_v3.0_GL-CORE-LOCK_Audit_Impact.pdf)
+## Documents
 
----
+- White Paper: [docs/ORA_CORE_v2.1.2_GL-CORE-LOCK_WhitePaper_layout.pdf](docs/ORA_CORE_v2.1.2_GL-CORE-LOCK_WhitePaper_layout.pdf)
+- Audit Croise: [docs/ORA_CORE_v3.0_GL-CORE-LOCK_Audit_Croise.pdf](docs/ORA_CORE_v3.0_GL-CORE-LOCK_Audit_Croise.pdf)
+- Audit Impact: [docs/ORA_CORE_v3.0_GL-CORE-LOCK_Audit_Impact.pdf](docs/ORA_CORE_v3.0_GL-CORE-LOCK_Audit_Impact.pdf)
 
-## ⚡ Indicateurs HALO_ORA.v3
+## Current Repository Map
 
-| Mesure | Valeur | Unité |
-|--------|--------|-------|
-| Ratio énergétique | 0.01835 | Wh/token |
-| Économie moyenne | -35 % | vs baseline GPT-4 |
-| CO₂ évité | ≈ -30 g | par session |
-| Latence moyenne | 121 ms | par réponse |
+| Order | Repository | Role |
+| ---: | --- | --- |
+| 1 | [ora-core-os](https://github.com/TwinsProductionAI/Coeur_ORA_GrenaPrompt_repo) | Current architecture and canonical module order. |
+| 2 | [ora-core-runtime](https://github.com/TwinsProductionAI/ora-core-runtime) | Runnable runtime and tests. |
+| 3 | [ora-core-rag](https://github.com/TwinsProductionAI/ora-core-rag) | Retrieval layer and RAG Governor. |
+| 4 | [ora-core-specs](https://github.com/TwinsProductionAI/ora-core-specs) | Technical specifications and white papers. |
+| 5 | [grenaprompt-linked](https://github.com/TwinsProductionAI/grenapromptlinked-v1) | GL/GPL/GL_G language layer. |
+| 6 | [ora-core-neroflux](https://github.com/TwinsProductionAI/gpv2-exotique-neroflux) | Cognitive flow-control module. |
+| 7 | `ora-core-legacy-whitepaper` | Historical archive. |
 
----
+## Measurement Note
 
-## 🧩 Installation & Utilisation
+Historical documents may contain HALO_ORA.v3 values, energy ratios, or performance claims. Treat them as archived material unless a linked audit explicitly gives the measurement context.
 
-### 🔧 Cloner le dépôt
-```bash
-git clone https://github.com/TwinsProductionAI/Coeur-ORA-GrenaPrompt.git
-cd Coeur-ORA-GrenaPrompt
+## Status
 
-
+Archive / legacy context. Use [ora-core-os](https://github.com/TwinsProductionAI/Coeur_ORA_GrenaPrompt_repo) for the current public structure.
