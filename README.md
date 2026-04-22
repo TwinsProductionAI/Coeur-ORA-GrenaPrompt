@@ -4,7 +4,7 @@ Historical archive for earlier ORA Core GL-CORE-LOCK documents.
 
 This repository is kept for continuity and traceability. It is not the current starting point for the public ORA Core architecture.
 
-For the current entry point, start with [ora-core-os](https://github.com/TwinsProductionAI/Coeur_ORA_GrenaPrompt_repo).
+For the current entry point, start with [ora-core-os](https://github.com/TwinsProductionAI/ora-core-os).
 
 Recommended public slug: `ora-core-legacy-whitepaper`.
 
@@ -33,12 +33,12 @@ This repository contains historical ORA Core material such as:
 
 | Order | Repository | Role |
 | ---: | --- | --- |
-| 1 | [ora-core-os](https://github.com/TwinsProductionAI/Coeur_ORA_GrenaPrompt_repo) | Current architecture and canonical module order. |
+| 1 | [ora-core-os](https://github.com/TwinsProductionAI/ora-core-os) | Current architecture and canonical module order. |
 | 2 | [ora-core-runtime](https://github.com/TwinsProductionAI/ora-core-runtime) | Runnable runtime and tests. |
 | 3 | [ora-core-rag](https://github.com/TwinsProductionAI/ora-core-rag) | Retrieval layer and RAG Governor. |
 | 4 | [ora-core-specs](https://github.com/TwinsProductionAI/ora-core-specs) | Technical specifications and white papers. |
-| 5 | [grenaprompt-linked](https://github.com/TwinsProductionAI/grenapromptlinked-v1) | GL/GPL/GL_G language layer. |
-| 6 | [ora-core-neroflux](https://github.com/TwinsProductionAI/gpv2-exotique-neroflux) | Cognitive flow-control module. |
+| 5 | [grenaprompt-linked](https://github.com/TwinsProductionAI/grenaprompt-linked) | GL/GPL/GL_G language layer. |
+| 6 | [ora-core-neroflux](https://github.com/TwinsProductionAI/ora-core-neroflux) | Cognitive flow-control module. |
 | 7 | `ora-core-legacy-whitepaper` | Historical archive. |
 
 ## Measurement Note
@@ -47,4 +47,4 @@ Historical documents may contain HALO_ORA.v3 values, energy ratios, or performan
 
 ## Status
 
-Archive / legacy context. Use [ora-core-os](https://github.com/TwinsProductionAI/Coeur_ORA_GrenaPrompt_repo) for the current public structure.
+Archive / legacy context. Use [ora-core-os](https://github.com/TwinsProductionAI/ora-core-os) for the current public structure.
